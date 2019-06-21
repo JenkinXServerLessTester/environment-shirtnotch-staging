@@ -10,9 +10,12 @@ dependencies:
 - name: ng-golang-2019061802
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.2
-- name: ng-python-2019062001
-  repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.2
 - name: ng-nodejs-2019062001
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.2
+- name: ng-python-2019062001
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.2
+- name: ng-springweb-2019062001
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
