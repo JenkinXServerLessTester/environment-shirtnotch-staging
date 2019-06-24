@@ -19,6 +19,9 @@ dependencies:
 - name: ng-springweb-2019062001
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.3
+- name: voting-app-result-nodejs-stateful
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
 - name: voting-vote-python
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
